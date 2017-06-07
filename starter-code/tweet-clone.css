@@ -1,0 +1,65 @@
+
+
+body{
+  background: rgb(244, 248, 249);
+  padding: 20px 40px;
+  font-family: helvetica;
+}
+
+.main-box{
+  border: 2px solid rgb(225, 232, 237);
+  border-radius: 8px;
+  background-color: rgb(255, 255, 255);
+  padding: 35px 35px;
+  width: 950px;
+  height: auto;
+  position: relative;
+}
+
+#profile-pic{
+  float:left;
+}
+
+#profile-data{
+float:left;
+margin-left: 25px;
+font-size: 32px;
+font-weight: bold;
+}
+
+#id{
+  color: rgb(104, 109, 129);
+  font-size: 27px;
+  margin-left: -5px;
+  font-weight:bolder;
+}
+
+#follow-button{
+  float:right;
+  padding: 13px 27px;
+  background: rgb(255, 255, 255);
+  border: 3.5px solid rgb(85, 172, 238);
+  border-radius: 8px;
+  color: rgb(85, 172, 238);
+  font-size: 30px;
+  font-weight:bold;
+}
+
+#text{
+  clear:left;
+  font-size: 30px;
+  padding: 25px 0px 12px 0px;
+}
+
+#time{
+  font-size: 30px;
+  color: rgb(104, 109, 129);
+  padding-bottom: 30px;
+}
+
+a {
+  color: rgb(104, 109, 129);
+  font-size: 28px;
+  text-decoration: none;
+  margin-right: 35px;
+}
